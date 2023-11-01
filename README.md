@@ -82,6 +82,6 @@ In a more abstract sense, we learned that developing software or basic programs 
 In a more technical sense, we learned to integrate React Native applications with a backend written in Python. We learned about integrating several modules together, resolving pip conflicting package version issues, and collaborating through Git. We learned how to effectively navigate the issues we faced and how to prevent them in the future.
 
 ## Experience
-The three members of this team have been friends since elementary school. During the pandemic, we moved thousands of miles apart from each other and switched schools. We couldn't meet each other every day, go and hang out, and collaborate on projects anymore. The TechXCelerate Hackathon gave us the opportunity to work together again after several years. We made lots of memories during our two weeks working on this project, and we're grateful to have participated. We hope that Pebble can be taken another step further and truly help children with autism.
+The three members of this team have been friends since elementary school. During the pandemic, we moved thousands of miles apart from each other and switched schools. We couldn't meet each other every day, go and hang out, and collaborate on projects anymore. The Congressional App Challenge gave us the opportunity to work together again after several years. We made lots of memories during our two weeks working on this project, and we're grateful to have participated. We hope that Pebble can be taken another step further and truly help children with autism.
 
 Thank you.
